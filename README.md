@@ -19,7 +19,7 @@ COMPONENTS LIST:
 
 Recourses:
 
-1.Dmf313.ir. Published 2016. Accessed April 13, 2021.
+1. Dmf313.ir. Published 2016. Accessed April 13, 2021.
 https://dmf313.ir/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-lcd-tft-2-4-inch-%D8%A8%D8%A7-%D8%A2%D8%B1%D8%AF%D9%88%DB%8C%D9%86%D9%88/
 
 2. Viral Dodhia. Arduino Automatic Soap Dispenser. Viral Science. Published March 21, 2020.
