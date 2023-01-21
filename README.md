@@ -54,6 +54,7 @@ have been defined so that if a button related to an image is pressed on IntelliJ
 display shows that image. For instance, if button number 6 is pressed, the LCD will
 display the 6th step of hand sanitizing, or if the button Start is pressed, the LCD starts
 showing all the steps in the order.
+
 Recourses:
 
 1. Dmf313.ir. Published 2016. Accessed April 13, 2021.
