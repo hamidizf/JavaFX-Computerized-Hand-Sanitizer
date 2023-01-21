@@ -11,10 +11,15 @@ The outbreak of COVID-19 has emphasized the significance of personal hygiene, an
 COMPONENTS LIST:
 
 • Two Arduino Uno boards
+
 • A Servo motor
+
 • An obstacle avoidance sensor
+
 • A TFT LCD
+
 • Jumper wires(male to female)
+
 • A soap container 
 
 Recourses:
